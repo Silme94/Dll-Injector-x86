@@ -1,0 +1,11 @@
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\bin\x86\Release\DLL_Injector.exe.config
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\bin\x86\Release\DLL_Injector.exe
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\bin\x86\Release\DLL_Injector.pdb
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\obj\x86\Release\DLL_Injector.csproj.AssemblyReference.cache
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\obj\x86\Release\DLL_Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\obj\x86\Release\DLL_Injector.Form1.resources
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\obj\x86\Release\DLL_Injector.Properties.Resources.resources
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\obj\x86\Release\DLL_Injector.csproj.GenerateResource.cache
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\obj\x86\Release\DLL_Injector.csproj.CoreCompileInputs.cache
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\obj\x86\Release\DLL_Injector.exe
+C:\Users\Salaheddine\source\repos\DLL_Injector\DLL_Injector\obj\x86\Release\DLL_Injector.pdb
